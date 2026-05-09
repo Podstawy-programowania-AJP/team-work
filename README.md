@@ -1,2 +1,2 @@
 # team-work
-praca zespołowa-ćwiczenie
+Grupa A
